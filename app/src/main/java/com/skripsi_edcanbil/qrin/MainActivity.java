@@ -1,5 +1,6 @@
 package com.skripsi_edcanbil.qrin;
-// Test Commit
+// Test Commit lagi
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
